@@ -27,7 +27,7 @@ The maltego file now is more much bigger and more detailed, thanks to [Soufiane 
 
 I'll do a pull request and keep the maltego file updated as soon as I discover new things about the leak.
 
-## What's Added to the maltego 
+## What's Added to the maltego file
 
 - Added Allen Member
 - BTC Wallets
@@ -40,6 +40,24 @@ I'll do a pull request and keep the maltego file updated as soon as I discover n
 - Fake names used to buy VPS on multiple websites.
 
 # Discovery
+
+## Members List : 
+
+1. Anton Alexandrovich Bragin - (hector)
+2. Cherepanov Andrey Andreevich - (basil, fast, faster)
+3. Galochkin Maxim Sergeevich - (bentley)
+4. Grigoriev Daniil Olegovich - (fire, geralemur, skippy, lemur)
+5. Kiselyov Dmitry Sergeevich - (allen)
+6. Korneyev Roman Viktorovych - (liam)
+7. Mikhailov Maxim Sergeevich - (baget, MaxMS76, vnc)
+8. Mozhaev Alexander Vyacheslavovich - (green, rocco)
+9. Osipov Oleg Vasylevych -  (frog, geraldo)
+10. Polyak Valerievich - (cypher)
+11. Sergey Loguntsov - (zulas)
+12. Tesman Georgy Sergeevich - (core, egor)
+13. Vakhromeev Ivan - (mushroom, royal)
+14. Valery Sedletski - (strix, valerius)
+15. Valiakhmetov Vadym Firdavysovych - (weldon, Vasm, VadimVdx, mentos)
 
 ## Notes : ( 07/03/2022 ) 
 

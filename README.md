@@ -241,6 +241,14 @@ It'll look like this :
 
 ![](TrickBot.jpg)
 
+## You can also download a pdf report & .csv sheet table.
+
+#### PDF
+![PDF](https://i.imgur.com/SKFnQIm.png)
+
+#### CSV 
+
+![CSV](https://i.imgur.com/vY2pWOr.png)
 
 # Thanks 
 
@@ -248,4 +256,4 @@ It'll look like this :
 -   [**Tob Trick**](https://twitter.com/trickleaks) - For the Chat Leaks.
 -   [**heParmak**](https://github.com/TheParmak) - For Translating the chats.
 
-© 2022 - Sofiane Hamlaooui - Making the world a better place 🌎
+© 2022 - Sofiane Hamlaooui - Making the world a better place earth_americas

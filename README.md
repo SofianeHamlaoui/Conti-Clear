@@ -27,10 +27,10 @@ The maltego file now is more much bigger and more detailed, thanks to [Soufiane 
 
 I'll do a pull request and keep the maltego file updated as soon as I discover new things about the leak.
 
-## What's Added to the maltego file
+## What's Added ?
 
 - Added Allen Member
-- BTC Wallets
+- BTC Wallets ( 255 ) 
 - More Aliases
 - Websites Used for operations
 - Servers Used for operations

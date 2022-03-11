@@ -91,6 +91,41 @@ I'll do a pull request and keep the maltego file updated as soon as I discover n
 -   https://avcheck.net/id/oTLAJkt2Keqk > **loader_dll_64_donat4_150199_1.dll**
 
 
+## Exploited CVEs
+
+-   cve-2015-2546
+-   cve-2016-3309
+-   cve-2017-0101
+-   cve-2018-8120
+-   cve-2019-0543
+-   cve-2019-0841
+-   cve-2019-1064
+-   cve-2019-1069
+-   cve-2019-1129
+-   cve-2019-1130
+-   cve-2019-1215
+-   cve-2019-1253
+-   cve-2019-1315
+-   cve-2019-1322
+-   cve-2019-1385
+-   cve-2019-1388
+-   cve-2019-1405
+-   cve-2019-1458
+-   cve-2020-0609
+-   cve-2020-0638
+-   cve-2020-0688
+-   cve-2020-0787
+-   cve-2020-0796
+-   cve-2020-1472 **[Zerologon]**
+-   cve-2021-1675
+-   cve-2021-1732
+-   cve-2021-21972
+-   cve-2021-21985
+-   cve-2021-22005
+-   cve-2021-26855
+-   cve-2021-34527
+
+
 ## Used Websites : 
 
 ``` 
